@@ -1,0 +1,7 @@
+{
+  "name": "Pre-release: Scottish Golf Enhanced Course Rating Toolkit v03.26.A",
+  "description": "Pre-release: Scottish Golf Enhanced Course Rating Toolkit v03.26.A",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
