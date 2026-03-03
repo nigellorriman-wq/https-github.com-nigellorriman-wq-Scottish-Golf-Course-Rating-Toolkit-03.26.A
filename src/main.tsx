@@ -1,3 +1,4 @@
+import './index.css';
 console.log("TSX file has been reached and is being transpiled");
 import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { createRoot } from 'react-dom/client';
